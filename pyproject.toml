@@ -26,7 +26,6 @@ dependencies = [
     "protobuf > 4",
     "pycryptodome",
     "pyequilib",
-    "pyfrpc",
     "pyproj",
     "pytest",
     "pytest-asyncio",
